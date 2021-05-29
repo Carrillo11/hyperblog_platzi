@@ -1,6 +1,8 @@
 # hyperblog_platzi (⌐■_■)
 >El curso de platzi me ayuda a reforzar mi conocimiento en Git y Github de una manera muy buena.
 
+Creado por el poderosisimo team platzi 
+
 ##Conocimientos que reforze
 * Comandos de Git
 * Flujo de trabajo en Github
